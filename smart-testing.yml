@@ -1,0 +1,6 @@
+mode: ordering
+strategies: new, changed, affected
+debug : true
+
+
+
